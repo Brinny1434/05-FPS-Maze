@@ -1,6 +1,6 @@
 # 05-FPS-Maze
-Project 05 for MSCH-C220
-April 9, 2022
+ - Project 05 for MSCH-C220
+ - April 9, 2022
 
 First Person Shooter Maze Game
 
