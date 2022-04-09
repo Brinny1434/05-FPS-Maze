@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Robot_noise.wav-655700ce4a41d551f198b2a18131876d.sample"
+
+[deps]
+
+source_file="res://Assets/Robot_noise.wav"
+dest_files=[ "res://.import/Robot_noise.wav-655700ce4a41d551f198b2a18131876d.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
